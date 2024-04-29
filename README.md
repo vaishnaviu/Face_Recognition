@@ -17,7 +17,7 @@ The face recognition model achieved an accuracy of approximately 93% on the test
 
 ## Usage
 1. Clone the repository:
-    git clone (https://github.com/vaishnaviu/Face_Recognition/)
+    git clone https://github.com/vaishnaviu/Face_Recognition.git
 2. Navigate to the project directory
 3. Run the preprocessing script to crop faces from the images.
 4. Generate synthetic data using augmentation techniques if required.
